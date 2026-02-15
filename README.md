@@ -65,7 +65,7 @@ assets/     → System diagrams and screenshots
 ---
 
 
-## 🚀 Key Features
+## Key Features
 - Real-time wafer edge detection
 - Automated motor-based alignment correction
 - SPI-based ADC sampling
