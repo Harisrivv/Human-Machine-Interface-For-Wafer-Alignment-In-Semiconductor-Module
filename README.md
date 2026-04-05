@@ -9,7 +9,7 @@ The objective is to simulate an industrial wafer alignment workflow using struct
 
 ## Project Highlights
 - Modular firmware architecture separating drivers and application logic
-- SPI communication with MCP3008 (10-bit ADC)
+- SPI communication with MCP3008 (12-bit ADC)
 - Real-time wafer edge detection using LDR sensor
 - Threshold-based motor alignment correction
 - Emergency stop safety handling mechanism
@@ -20,7 +20,7 @@ The objective is to simulate an industrial wafer alignment workflow using struct
 
 ## Technologies & Hardware Used
 - Raspberry Pi 4
-- MCP3008 (10-bit SPI ADC)
+- MCP3008 (12-bit SPI ADC)
 - LDR Sensor
 - DC Motor with motor driver
 - 16x2 LCD Display (4-bit mode)
