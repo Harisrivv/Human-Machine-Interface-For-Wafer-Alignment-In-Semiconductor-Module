@@ -47,7 +47,7 @@ The firmware is structured for clarity and scalability, following an industry-st
 ---
 
 ## System Architecture
-![System Architecture](assets/Proteus Schematic.png)
+![System Architecture](assets/Proteus_Schematic.png)
 
 ---
 
