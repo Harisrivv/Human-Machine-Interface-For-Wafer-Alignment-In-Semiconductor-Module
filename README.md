@@ -52,7 +52,7 @@ The firmware is structured for clarity and scalability, following an industry-st
 ---
 
 ## HMI Dashboard
-![Node-RED Dashboard](assets/UI Capture of Node-Red Dashboard.png)
+![Node-RED Dashboard](assets/UI_Capture_of_Node-Red_Dashboard.png)
 
 ---
 
